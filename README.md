@@ -1,6 +1,7 @@
 # Bilibili合集增强
 
 一个用于 Bilibili 视频合集页面的 Chrome 插件，可以一键展开/折叠播放列表中所有视频的完整标题，并支持展开整个视频列表。
+感谢claude-sonnet-4-5-20250929-thinking助我AI Coding
 
 ## 功能特性
 
