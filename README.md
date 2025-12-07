@@ -94,3 +94,5 @@ bilibili-title-expander/
 - 二次开发或使用时必须保留原作者署名
 
 详细许可协议请查看 [LICENSE](LICENSE) 文件
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=Z2hwX0ZpdXJDTWdHcWtZaTZBNG9QUWVLb1BvYnhpV3NZMzN4SkxadA==#IGNiT3-R/Bilibili-Collection-Boost&type=date&legend=top-left" frameBorder="0"></iframe>
