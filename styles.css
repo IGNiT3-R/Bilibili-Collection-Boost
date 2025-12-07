@@ -1,0 +1,39 @@
+/* 切换按钮样式 */
+.title-expander-btn {
+  padding: 6px 34px;
+  font-size: 13px;
+  font-weight: 500;
+  color: #fff;
+  background: linear-gradient(135deg, #00a1d6 0%, #00b5e5 100%);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  user-select: none;
+  display: inline-block;
+  text-align: center;
+  line-height: 20px;
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgba(0, 161, 214, 0.25);
+  min-width: 120px;
+}
+
+.title-expander-btn:hover {
+  background: linear-gradient(135deg, #00b5e5 0%, #00c9ff 100%);
+  box-shadow: 0 3px 8px rgba(0, 161, 214, 0.35);
+  transform: translateY(-1px);
+}
+
+.title-expander-btn:active {
+  background: linear-gradient(135deg, #0090c0 0%, #00a1d6 100%);
+  box-shadow: 0 1px 3px rgba(0, 161, 214, 0.25);
+  transform: translateY(0);
+}
+
+/* 展开状态下的视频项样式 - 增强边界感 */
+.video-pod__item.title-expanded {
+  border-bottom: 1px solid #e3e5e7 !important;
+  padding-bottom: 8px !important;
+  margin-bottom: 8px !important;
+  background-color: #fafafa !important;
+}

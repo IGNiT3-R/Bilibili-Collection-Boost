@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Bilibili合集增强",
+  "version": "1.0.0",
+  "description": "增强 Bilibili 视频合集页面，支持展开标题和列表，提升浏览体验",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["*://*.bilibili.com/video/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_end"
+    }
+  ]
+}
