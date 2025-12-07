@@ -95,4 +95,6 @@ bilibili-title-expander/
 
 详细许可协议请查看 [LICENSE](LICENSE) 文件
 
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=IGNiT3-R/Bilibili-Collection-Boost&type=date&legend=top-left)](https://www.star-history.com/#IGNiT3-R/Bilibili-Collection-Boost&type=date&legend=top-left)
